@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This file is a list of Christmas gifts made by a generic person in 2022. It contains the type of gift for every family member and a message of Christmas greetings written by Chatgpt -->
+<christmas_gift currency="euro" shopping_type="In Store" message_written_by="Chatgpt">
+  <person1 gender="male">
+    <present>
+      <amount>1</amount>
+      <item_type>shoes
+      <detail feature="size">42</detail>
+      </item_type>
+      <cost currency="euro">40</cost>
+      <shop_name>Nike
+      <maps_location>city center</maps_location>
+      </shop_name>
+      <buy_timeline_position>2</buy_timeline_position>
+    </present>
+    <message_chatgpt input="Auguri di Natale" gender="male">
+      &quot;Ciao! Ti auguro un felice Natale e un sereno periodo delle festività. Spero che tu possa trascorrere questo tempo speciale in compagnia dei tuoi cari, circondato dall'amore e dalla pace.&quot;
+    </message_chatgpt>
+  </person1>
+  <person2 gender="female">
+    <present>
+      <amount>3</amount>
+      <item_type>sweater
+        <detail feature="color">red</detail>
+        <detail feature="color">pink</detail>
+        <detail feature="color">purple</detail>
+      </item_type>
+      <cost currency="euro">35</cost>
+      <shop_name>Muji
+        <maps_location>city center</maps_location>
+      </shop_name>
+      <buy_timeline_position>1</buy_timeline_position>
+    </present>
+    <message_chatgpt input="Auguri di Natale" gender="female">
+      &quot;Auguro a te, cara amica, un Natale luminoso come un albero di Natale illuminato, caldo come una tazza di cioccolata calda e pieno di regali come una calza della Befana!&quot;
+    </message_chatgpt>
+  </person2>
+  <child gender="male">
+    <present>
+      <amount>1</amount>
+      <item_type>sweater
+        <detail feature="color">blue</detail>
+      </item_type>
+      <cost currency="euro">35</cost>
+      <shop_name>Hm
+        <maps_location>city center</maps_location>
+      </shop_name>
+      <buy_timeline_position>3</buy_timeline_position>
+    </present>
+    <message_chatgpt input="Auguri di Natale" gender="male">
+      &quot;Auguro a te, cara amica, un Natale luminoso come un albero di Natale illuminato, caldo come una tazza di cioccolata calda e pieno di regali come una calza della Befana!&quot;
+    </message_chatgpt>
+  </child>
+  <child gender="female">
+    <present>
+      <amount>1</amount>
+      <item_type>sweater
+        <detail feature="color">yellow</detail>
+      </item_type>
+      <cost currency="euro">28</cost>
+      <shop_name>Zara
+        <maps_location>city center</maps_location>
+      </shop_name>
+      <buy_timeline_position>4</buy_timeline_position>
+    </present>
+    <message_chatgpt input="Auguri di Natale" gender="female">
+      &quot;Auguro a te, un Natale allegro come un coro di renne, dolce come una fetta di panettone e felice come un bambino con i regali sotto l'albero.&quot;
+    </message_chatgpt>
+  </child>
+  <baby>
+    <present>
+      <amount>1</amount>
+      <item_type>body
+      <detail feature="color">yellow</detail>
+      </item_type>
+      <cost currency="euro">35</cost>
+      <shop_name>Petit Fou
+        <maps_location>center</maps_location>
+      </shop_name>
+      <buy_timeline_position>5</buy_timeline_position>
+    </present>
+    <message_chatgpt input="Auguri di Natale">
+      &quot;Auguro a te, un Natale allegro come un coro di renne, dolce come una fetta di panettone e felice come un bambino con i regali sotto l'albero.&quot;
+    </message_chatgpt>
+  </baby>
+  <grandparents>
+    <present>
+      <amount>2</amount>
+      <item_type>soap
+      <detail feature="flavour">rose</detail>
+      <detail feature="flavour">lemon</detail>
+      </item_type>
+      <cost currency="euro">15</cost>
+      <shop_name>Lush
+        <maps_location>Termini</maps_location>
+      </shop_name>
+      <buy_timeline_position>6</buy_timeline_position>
+    </present>
+    <message_chatgpt input="Auguri di Natale">
+      &quot;Natale è arrivato,
+      è il momento di festeggiare,
+      di scambiarci i regali,
+      e di brindare.
+
+      Con un po' di zucchero e spezie,
+      e qualche caramella o biscotto,
+      ci mettiamo a tavola,
+      per mangiare un po' di tutto.
+
+      Poi ci scambiamo gli auguri,
+      con un abbraccio o un bacio,
+      e brindiamo al Natale,
+      che è sempre un momento magico.
+
+      Buon Natale con affetto vivo,
+      che sia pieno di risate e di famiglia,
+      e che il nuovo anno sia ancora meglio,
+      con tante belle sorprese in arrivo!&quot;
+    </message_chatgpt>
+  </grandparents>
+  <parent gender="male">
+    <present>
+      <amount>2</amount>
+      <item_type>soap
+        <detail feature="flavour">pine</detail>
+        <detail feature="flavour">sea breeze</detail>
+      </item_type>
+      <cost currency="euro">20</cost>
+      <shop_name>Lush
+        <maps_location>Termini</maps_location>
+      </shop_name>
+      <buy_timeline_position>7</buy_timeline_position>
+    </present>
+    <message_chatgpt input="Auguri di Natale" gender="male">
+      &quot;Natale è arrivato,
+      è il momento di scartare i regali,
+      di mangiare tanto cibo e cantare canzoni,
+      di divertirsi con gli amici e la famiglia.
+
+      Auguro a te un Natale pieno di risate,
+      di regali sotto l'albero,
+      di cibo delizioso e di momenti indimenticabili.
+
+      Buon Natale a te, e a tutti quelli che ami!&quot;
+    </message_chatgpt>
+  </parent>
+  <parent gender="female">
+  <present>
+    <amount>2</amount>
+    <item_type>radio
+      <detail feature="technology">bluetooth</detail>
+    </item_type>
+    <cost currency="euro">50</cost>
+    <shop_name>Unieuro
+      <maps_location>Roma est</maps_location>
+    </shop_name>
+    <buy_timeline_position>8</buy_timeline_position>
+  </present>
+  <message_chatgpt input="Auguri di Natale" gender="male">
+    &quot;Natale è arrivato,
+    è il momento di cantare,
+    di aprire i regali,
+    e di mangiare senza fare sconti!
+
+    Spero che queste feste
+    siano piene di amore e di gioia,
+    che possiate trascorrere del tempo con i vostri cari,
+    e che il nuovo anno vi porti tutto ciò che desiderate.
+
+    Buon Natale a tutti,
+    spero che siate pronti a scartare i regali,
+    perché ne vedrete delle belle!&quot;
+  </message_chatgpt>
+  </parent>
+  <sister gender="female">
+    <present>
+        <amount>1</amount>
+        <item_type>hair straightener
+          <detail feature="brand">Philips</detail>
+        </item_type>
+        <cost currency="euro">50</cost>
+        <shop_name>Unieuro
+          <maps_location>Roma est</maps_location>
+        </shop_name>
+        <buy_timeline_position>9</buy_timeline_position>
+    </present>
+    <message_chatgpt input="Auguri di Natale" gender="female">
+      &quot;Auguro a te, cara, un Natale allegro come un coro di renne, dolce come una fetta di panettone e felice come un bambino con i regali sotto l'albero.&quot;</message_chatgpt>
+  </sister>
+  <brother gender="male">
+      <present>
+          <amount>1</amount>
+          <item_type>ear pods
+            <detail feature="brand">Marshall</detail>
+          </item_type>
+          <cost currency="euro">40</cost>
+          <shop_name>Unieuro
+            <maps_location>Roma est</maps_location>
+          </shop_name>
+          <buy_timeline_position>10</buy_timeline_position>
+        </present>
+    <message_chatgpt input="Auguri di Natale" gender="male">
+      &quot;Auguro a te, cara, un Natale luminoso come un albero di Natale illuminato, caldo come una tazza di cioccolata calda e pieno di regali come una calza della Befana!&quot;
+    </message_chatgpt>
+  </brother>
+</christmas_gift>
